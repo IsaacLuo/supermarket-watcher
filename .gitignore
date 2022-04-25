@@ -1,5 +1,13 @@
 conf.toml
 node_modules
 user_data
-products.toml
 testdb.js
+conf/
+dist/
+datasource/
+
+toml2csv.js
+tsconfig.json
+logs/
+yarn-error.log
+src/frontend/.env
